@@ -5,3 +5,5 @@
 * I made it a Resposive website too.
 * its still an ongoing project with lots of ideas to fill the gaps in it.
 
+NOTE: MAKE SURE YOUU CREATE A FOLDER mlbb AND PASTE ALL THE FOLDERS I PROVIDED IN IT (FAVICON NOT INCLUDED)
+
